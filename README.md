@@ -7,7 +7,7 @@
 
 # Integrantes
 - kerobero
-- ricardo
+- k1nk3r
 - Jlcmux
 - Alejo
 - Albert 
